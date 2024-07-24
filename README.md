@@ -11,4 +11,4 @@ Specifically, **linguini**.
 2. This is
 3. A List
 
-![This is an image of linguini](/recipe/recipe.jpg "Linguini")
+![This is an image of linguini](/recipe.jpg "Linguini")
